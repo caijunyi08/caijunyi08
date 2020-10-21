@@ -4,9 +4,9 @@ My name is Cai Junyi.
 
 I am a student, I can use python, java, c, frontend.I prefer python.
 
-Come and see my favourite program: [tic-tac-toe](https://github.com/caijunyi08/tic-tac-toe)
+Come and see my favourite program: [tic-tac-toe](https://github.com/icaijy/tic-tac-toe)
 
-A blog system use django: [click here](https://github.com/caijunyi08/blogsystem)
+A blog system use django: [click here](https://github.com/icaijy/blogsystem)
 <!--
 **caijunyi08/caijunyi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
