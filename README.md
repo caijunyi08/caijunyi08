@@ -2,13 +2,13 @@
 
 My name is Cai Junyi.
 
-I am a student, I can use python, java, c, frontend.I prefer python.
+I can use python, java, c, frontend.Python is my best.
 
 Come and see my favourite program: [tic-tac-toe](https://github.com/icaijy/tic-tac-toe)
 
 A blog system use django: [click here](https://github.com/icaijy/blogsystem)
 <!--
-**caijunyi08/caijunyi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**icaijy/icaijy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
