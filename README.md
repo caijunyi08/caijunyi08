@@ -3,9 +3,7 @@
 ### Hi there, welcome! 👋
 I'm coding my personal website now, visit it at [http://junyi08.com](http://junyi08.com).
 
-⚡ Fun fact: the website are still coding, NOT running!
-
-Or visit the source code at [github](https://github.com/icaijy/junyi08.com)
+ The source code is at [github](https://github.com/icaijy/junyi08.com)
 
 I can use python, java, c, frontend, but Python is my best.
 
