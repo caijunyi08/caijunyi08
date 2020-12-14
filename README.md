@@ -7,7 +7,7 @@ I'm coding my personal website now, visit it at [http://junyi08.com](http://juny
 
 I can use python, java, c, frontend, but Python is my best.
 
-Come and see my favourite program: [tic-tac-toe](https://github.com/icaijy/tic-tac-toe)
+Come and see my favourite program: [homework generator](https://github.com/icaijy/student_homework)
 
 A blog system use django: [click here](https://github.com/icaijy/blogsystem)
 <!--
